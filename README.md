@@ -1,5 +1,5 @@
 C'est un projet qui nous permettra à therme d'avoir accès à un site web utilisant Symfony, 
-sur lequel se trouve une description des nouveaux techniques avec leurs notes, leurs moyennes, 
+sur lequel se trouve une description des nouvelles technos avec leurs notes, leurs moyennes, 
 une section commentaire etc . . .
 
 Installation : 
