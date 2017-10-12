@@ -14,7 +14,7 @@ class InnovationFixturesCommand extends ContainerAwareCommand
     protected function configure()
     {
         $this
-            ->setName('student:fixtures')
+            ->setName('user:fixtures')
             ->setDescription('Chargement du jeu d\'essai')
         ;
     }
