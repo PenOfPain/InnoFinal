@@ -1,0 +1,22 @@
+# src/InnovationBundle/Resources/config/routing.yml
+
+Innovation_home:
+    path:      /menu
+    defaults: { _controller: InnovationBundle:Default:index }
+
+Innovation_home:
+    path:      /Drone
+    defaults: { _controller: InnovationBundle:Drone:index }
+
+Innovation_home:
+    path:      /PC
+    defaults: { _controller: InnovationBundle:PC:index }
+
+Innovation_home:
+    path:      /Phone
+    defaults: { _controller: InnovationBundle:Phone:index }
+
+Innovation_home:
+    path:      /Other
+    defaults: { _controller: InnovationBundle:Other:index }
+
