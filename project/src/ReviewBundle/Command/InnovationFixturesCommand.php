@@ -9,7 +9,7 @@ use Symfony\Component\Finder\Finder;
 use ReviewBundle\Entity\Review;
 use ReviewBundle\Entity\User;
 
-class StudentFixturesCommand extends ContainerAwareCommand
+class InnovationFixturesCommand extends ContainerAwareCommand
 {
     protected function configure()
     {
