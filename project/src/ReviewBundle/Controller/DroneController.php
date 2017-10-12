@@ -17,7 +17,7 @@ class DroneController extends Controller
 {
 
     /**
-     * @Route("/admin")
+     * @Route("/Drone", name="Drone")
      */
      public function adminAction()
          {

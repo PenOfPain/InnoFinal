@@ -8,7 +8,7 @@ use ReviewBundle\Repository\CategoriesRepository;
 class DefaultController extends Controller
 {
     /**
-     * @Route("/menu", name="menu")
+     * @Route("/", name="menu")
      */
     public function indexAction()
     {
