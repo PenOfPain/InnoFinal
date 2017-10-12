@@ -15,3 +15,5 @@ make fixture (" actuellement en fase de debug ")
 make start
 
 Rendez-vous ensuite dans votre navigateur et taper l'URL : localost: 1337 et vous devez tomber sur notre page d'accueil.
+
+Il reste malgres tout beaucoup à faire tout est encore en construction.
